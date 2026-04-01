@@ -9,6 +9,7 @@
 
 ## 👩‍💻 About Me
 
+  🎓Bachelor of Computer Engineering
 - 📊 **Data Analyst & AI Enthusiast**
 - 🔍 Skilled in **Data Cleaning, EDA & Visualization**
 - 🤖 Interested in **Machine Learning & AI**
